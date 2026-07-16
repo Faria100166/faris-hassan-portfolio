@@ -1,3 +1,3 @@
-:HL["/faris-hassan-portfolio/_next/static/chunks/0k~w0nm6ji-d3.css","style"]
+:HL["/faris-hassan-portfolio/_next/static/chunks/06qxfgq.z7~f0.css","style"]
 :HL["/faris-hassan-portfolio/profile-photo.jpeg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"d61mPZBHE5Hbq5dHaCLOr"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-1NyOhshiKUmZ97BweIZg"}
